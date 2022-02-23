@@ -1,0 +1,154 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A further evidence of the aforementioned Thomas Hewet his disaffection to the present authority of this nation and his perfect enmity against the people of God is cleerly made out in that eminent (but most wicked) piece of service which (as a magistrate, and yet no justice according to his own testimony) was performed on the first day of the week, the 28th of the 6th moneth, 1659.</title>
+            <author>I. K.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A47097</idno>
+            <idno type="STC">Wing K10A</idno>
+            <idno type="STC">ESTC R31681</idno>
+            <idno type="EEBO-CITATION">12244580</idno>
+            <idno type="OCLC">ocm 12244580</idno>
+            <idno type="VID">56888</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A47097)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 56888)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1507:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A further evidence of the aforementioned Thomas Hewet his disaffection to the present authority of this nation and his perfect enmity against the people of God is cleerly made out in that eminent (but most wicked) piece of service which (as a magistrate, and yet no justice according to his own testimony) was performed on the first day of the week, the 28th of the 6th moneth, 1659.</title>
+                  <author>I. K.</author>
+               </titleStmt>
+               <extent>?   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Simmons ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed: I.K.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Apologetic works.</term>
+               <term>Persecution.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:56888:1"/>
+            <!-- PDF PAGE 25 -->
+            <pb facs="tcp:56888:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 25 -->
+            <head>A FURTHER EVIDENCE Of the aforementioned <hi>THOMAS HEWET</hi> His DISAFFECTION To the PRESENT AVTHORITY Of this NATION, <hi>And his perfect enmity againſt the people of God is cleerly made out in that eminent (but moſt wicked) piece of ſervice, which (as a Magiſtrate, and yet no Juſtice according to his own Teſtimony) was per<g ref="char:EOLhyphen"/>formed on the firſt day of the week, the</hi> 28th <hi>of the</hi> 6th <hi>moneth,</hi> 1659.</head>
+            <p>THe plot failing againſt the honeſt Intereſt and people of the Nation, for ſacrificing and root<g ref="char:EOLhyphen"/>ing out all the faithful in the Land, eſpecially them that go under the Name of <hi>Quakers</hi> (as ſome of the conſpirators for excuſing, or at leaſt extenuat<g ref="char:EOLhyphen"/>ing their offences) have neither been aſhamed nor affraid to confeſſe; <hi>That people</hi> being moſt out of faſhion with the World, <hi>as bearing that Teſtimony which the World cannot bear,</hi> a Generation whereof the World is as weary as it is unworthie; So that it was believed a conſpiracy againſt them would ſcarce be conſtrued in general a crime; and
+<pb n="2" facs="tcp:56888:2"/>
+               <!-- PDF PAGE 26 -->
+therefore theſe were firſt to be taken off, and it was con<g ref="char:EOLhyphen"/>ceived the thing might be accompliſhed before another meeting at <hi>Sabridgworth;</hi> But the ſnare being broken, and the enemy and adverſary diſappointed of their ex<g ref="char:EOLhyphen"/>pectation; <hi>Thomas Hewet,</hi> (though wiſe enough in his Ge<g ref="char:EOLhyphen"/>neration to keep out of the way of danger from forfeiting his eſtate) could no longer deſpence with theſe meetings of the Quakers ſo neer the place of his worſhip, leaſt it ſhould prove as ominous and deſtructive thereunto, as the approach of the Ark to the image of <hi>Dagon,</hi> and in time ſhould diſcover the falſneſſe and filthineſſe thereof; wherefore at ever: ſtreets end, and at all places of en<g ref="char:EOLhyphen"/>trance into the Town, he ſets a ſtrong guard of thoſe Ruffians (who behaved themſelves ſo valiantly in flinging ſtones, brickbats, dirt, &amp;c, at men, women, and chil<g ref="char:EOLhyphen"/>dren, two monethly daies before, without the leaſt reſi<g ref="char:EOLhyphen"/>ſtance, armed with holbarts and other weapons, with this charg as was confeſſed by the Conſtable, <hi>Wi. Graves</hi> him<g ref="char:EOLhyphen"/>ſelf, before ſome Juſtices &amp; Commiſſioners for the Militia of the County of <hi>Hartford,</hi> to keep out the Quakers, and prevent <hi>their meeting, which was ſo grevious and offenſive</hi> to himſelfe and his neighbours (as he then ſaid) that they could not bear it; he would not undervalue himſelf ſo much as to let them come in, and then with the Gadarenes intreat them out, <hi>a ſaucy and unſociable people, as he terms them,</hi> but with a far worſe ſpirit commands them to be kept out. They that live in darkneſſe are affraid of the light, becauſe their deeds are evil; the prince of Dark<g ref="char:EOLhyphen"/>neſſe is very jealous of being ſurprized by the <hi>Children of Light;</hi> and therefore raiſeth what forces he can to ſecure his territories; among which <hi>Thomas Hewet</hi> appears as Cap<g ref="char:EOLhyphen"/>tain of a Company of Volunteer Deſperadoes (for he could not appoint <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y word as a civil Magiſtrate, though be termed himſelf ſo at firſt, not being ſworn to the Of<g ref="char:EOLhyphen"/>fice of a Juſtice (as afterward he acknowledged) but refu<g ref="char:EOLhyphen"/>ſing indeed to ſwear when the oath was tendered by the Clerk of the Peace, for fear of the engagement, or being made ſubject to do ſervice for the Common-Wealth) who
+<pb n="3" facs="tcp:56888:2"/>
+               <!-- PDF PAGE 26 -->
+kept the place for two hours, and kept out all honeſt peo<g ref="char:EOLhyphen"/>ple that came to that meeting, until a party of about 8 of the County horſe, commanded by a Corporal, which we<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e ſent thither upon notice of the wicked deſign of the inhabitants to keep the peace, made their approach, and then that arm of fleſh was ſoon broken. There was ſome ſmall diſpute between the Wardmen and Souldiers, and ſome blowes exchanged, the Ward-men ſaying, they were charged to keep out the Quakers from meeting and diſ<g ref="char:EOLhyphen"/>arm the ſouldiers (if they could) and put their horſes in the Pound, ſo that ſome of the Souldiers received great knocks; but the iſſue was, that the Ward-men were for<g ref="char:EOLhyphen"/>ced either to fly, or yeeld, for though their hearts were high enough to do miſchief, yet they quickly became as <hi>Nabals,</hi> and ſanck down as a ſtone, except ſome few, who could hardly be reſtrained from making diſturbance.</p>
+            <p>By all which it appears how much the Common-Wealth is beholding to this <hi>Thomas Hewet,</hi> who will not own the power to do good, as to the correcting offen<g ref="char:EOLhyphen"/>ders, or relieving the oppreſſed, but will never want power to do an unjuſt act. Before he came to town <hi>this meeting</hi> was peaceable, and there was no diſturbance; but he brought that ſpirit along with him that raiſed this diſ<g ref="char:EOLhyphen"/>order; His countenance, carriage and expreſſions toward them that were abuſed, before the injurious party, did ſpeak enough. When <hi>Edward Burrough</hi> was before him (all be dawb'd with the dirt his filthy neighbours had thrown upon him) to complain of the abuſe; one of them pul'd off his hat, and another daſh't a rotten egg upon his bare head, whereat he was ſo well pleaſed that he could not forbear ſmiling, though ſome of it flew into his coach.</p>
+            <p>He hath confeſſed the meeting is a great offence to him, That he ſet a guard to keep them out of Town that came to it, pretending ignorance of any allowance of liberty from the preſent Authority: His men have made up the number of Rioters, and threatened very ſtrange things, and confeſſe their Maſter ſets them on. And he that was the buſieſt and baſeſt Inſtrument amongſt that unreaſona<g ref="char:EOLhyphen"/>ble
+<pb n="4" facs="tcp:56888:3"/>
+               <!-- PDF PAGE 27 -->
+company, <hi>Ralph Curtis</hi> by name (that brake open the houſe where the meeting was kept, threw in many things of offence, cut off a yard of <hi>John Goodmans</hi> coat that ſtood within his reach, and was one of the three that knocked him down, and were like to kill him; did alſo impound the horſe of <hi>Daniel Halden</hi> who fled into his fathers yard for ſhelter almoſt ſpoiled, kept him a fortnight in the midſt of harveſt though twice ſent for, and at laſt exacted ten ſhillings for the treſpaſſe, and had it declares that Sr. <hi>Tho<g ref="char:EOLhyphen"/>mas Hewet</hi> bade him pound that horſe or any of the <hi>Quak<g ref="char:EOLhyphen"/>ers</hi> horſes, &amp; the ſaid <hi>Thomas</hi> himſelf had five ſhillings for poundage, and keeping this horſe thus forcibly detained.</p>
+            <p>Which plainly declares that this <hi>Thomas Hewet</hi> hath not onely been paſſive in permiting theſe abuſes and high miſdemeanours, but active, beyond meaſure, and beſide his Authority. Such is his zeal to promote the intereſt of the <hi>wicked one,</hi> that is in the World, and rules in the hearts of the children of diſobedience, that he ventures diſcretion, reputation and all to ſerve it.</p>
+            <p>He that diſdains to be the Servant of Chriſt will ſtoop to a worſe office. The God of this World hath ſo blind<g ref="char:EOLhyphen"/>ed and beſoted men that they chuſe by contraries, as void of all reaſon and underſtanding; and therefore it con<g ref="char:EOLhyphen"/>cerns the Powers of the Nation to put ſuch men in com<g ref="char:EOLhyphen"/>miſſion, as have hearts to do good, and not ſuch as lie in wait to do evil, and ſeldom make uſe of their power but to colour over and cover iniquitie.</p>
+            <q>Collected and teſtified by one that is no enemy to the perſon of any man, but a friend to them that fear the Lord.</q>
+            <closer>
+               <signed>I. K.</signed>
+            </closer>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Thomas Simmons,</hi> at the Bull and Mouth neer Alderſgate, 1659.</p>
+            <pb facs="tcp:56888:3"/>
+            <!-- PDF PAGE 27 -->
+         </div>
+      </back>
+   </text>
+</TEI>
